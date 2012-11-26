@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">KaraokeHelper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Karaoke Helper</string>
+    <string name="main_title">Karaoke Helper</string>
+    <string name="main_titleHor">Karaoke Helper Horiz</string>
+    <string name="SongData">Song Data</string>
+    <string name="SongName">Song Name</string>
+	<string name="NextSongData">Press here to get next line of song</string>
+</resources>

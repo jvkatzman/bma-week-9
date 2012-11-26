@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Casey_jones" >
+	    <item>Driving that train, high on cocaine,</item>
+	    <item >Casey Jones is ready, watch your speed.</item>
+	    <item >Trouble ahead, trouble behind</item>
+	    <item >And you know that notion just crossed my mind.</item>
+	</string-array>
+	
+    
+    <string-array name="Danger_man" >
+	    <item>Im a danger man from a dangerous city</item>
+	    <item >And I lead a very dangerous life</item>
+	    <item >I got a dangerous car, goes dangerous speeds</item>
+	    <item >And very hazardous wife</item>
+	    <item >I got 16 or 17 dangerous girl friends</item>
+	    <item >Not counting one or two</item>
+	    <item >Look out kid you dont want to get hit</item>
+	    <item >Im dangerous to you</item>
+	    <item >You better look out</item>
+	</string-array>
+	
+        
+</resources>
